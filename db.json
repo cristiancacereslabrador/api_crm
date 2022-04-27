@@ -1,0 +1,76 @@
+{
+  "clientes": [
+    {
+      "nombre": "Christopher",
+      "empresa": "ChrisCac",
+      "email": "c.caceres@hotmail.es",
+      "telefono": "878787",
+      "notas": "nuevooooo",
+      "id": 1
+    },
+    {
+      "nombre": "Cristian",
+      "empresa": "Caceres Corp",
+      "email": "cristianvianey@gmail.com",
+      "telefono": "878787",
+      "notas": "koio",
+      "id": 2
+    },
+    {
+      "nombre": "Cristian",
+      "empresa": "Caceres Corp",
+      "email": "c.caceres@hotmail.es",
+      "telefono": "878787",
+      "notas": "oioi",
+      "id": 3
+    },
+    {
+      "nombre": "Cristian",
+      "empresa": "Caceres Corp",
+      "email": "c.caceres@hotmail.es",
+      "telefono": "878787",
+      "notas": "oioi",
+      "id": 4
+    },
+    {
+      "nombre": "Cristian",
+      "empresa": "Caceres Corp",
+      "email": "c.caceres@hotmail.es",
+      "telefono": "878787",
+      "notas": "oioi",
+      "id": 5
+    },
+    {
+      "nombre": "Cristian",
+      "empresa": "Caceres Corp",
+      "email": "c.caceres@hotmail.es",
+      "telefono": "878787",
+      "notas": "oioi",
+      "id": 6
+    },
+    {
+      "nombre": "Cristian",
+      "empresa": "Caceres Corp",
+      "email": "c.caceres@hotmail.es",
+      "telefono": "878787",
+      "notas": "oioi",
+      "id": 7
+    },
+    {
+      "nombre": "Crist",
+      "empresa": "uyuyuy",
+      "email": "configsmartphone2018@gmail.com",
+      "telefono": "878787",
+      "notas": "9989898",
+      "id": 8
+    },
+    {
+      "nombre": "Crist",
+      "empresa": "Caceres Corp",
+      "email": "configsmartphone2018@gmail.com",
+      "telefono": "878787",
+      "notas": "nuevo2",
+      "id": 9
+    }
+  ]
+}
